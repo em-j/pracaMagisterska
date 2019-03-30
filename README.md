@@ -1,0 +1,2 @@
+# pracaMagisterska
+My first project 
